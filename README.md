@@ -1,104 +1,55 @@
-<h1 align="center">Hi 👋, I'm Vinay Shankar Sharma</h1>
-<h3 align="center">🤖 AI & Machine Learning Student | 💻 Python Developer | 📊 Data Science Enthusiast</h3>
+# Hi 👋, I'm Vinay Shankar Sharma
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">🤖 AI & ML Engineer Aspirant | Python Developer | Data Science Enthusiast</h3>
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech (Artificial Intelligence & Machine Learning) Student at **Vidya College of Engineering, Meerut**
-- 🔭 Currently working on **AI & Data Science Projects**
-- 🌱 Currently learning **Machine Learning, Deep Learning & Full Stack Development**
-- 👯 Looking to collaborate on **Open Source AI/ML Projects**
-- 💬 Ask me about **Python, SQL, OpenCV, Data Analysis, HTML, CSS & JavaScript**
-- 📫 Reach me at **panditji9088xyz@gmail.com**
-- ⚡ Fun Fact: **I love solving real-world problems using AI and Python.**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/VinayShankar9088" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/vinay-shankar-sharma-4b4a03362" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:panditji9088xyz@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Python+Developer;Always+Learning+New+Things" />
 </p>
 
----
+## 🚀 About Me
 
-## 🚀 Featured Projects
+- 🎓 B.Tech (AI & ML), Vidya College of Engineering, Meerut
+- 🌱 Learning AI, Machine Learning, Computer Vision
+- 💻 Languages: Python, Java, SQL, C/C++
+- 🔭 Goal: AI Engineer | ML Engineer
+- 📫 Email: panditji9088xyz@gmail.com
 
-- 🛒 **Amazon Store Data Analysis & Recommendation System**
-  - Python • Pandas • JSON • Jupyter Notebook
+## 🛠 Tech Stack
 
-- 👁️ **AI-Powered Real-Time Object & Face Detection**
-  - Python • OpenCV
-
-- 📄 **Resume Builder Web Application**
-  - HTML • CSS • JavaScript • Flask
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,js,flask,git,github,vscode,opencv" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css,js,git,github,vscode,opencv,flask"/>
 </p>
 
----
+## 🌐 Connect
+
+- GitHub: https://github.com/VinayShankar9088
+- LinkedIn: https://www.linkedin.com/in/vinay-shankar-sharma-4b4a03362
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VinayShankar9088&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayShankar9088&theme=tokyonight" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=VinayShankar9088&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayShankar9088&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VinayShankar9088&theme=tokyonight)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayShankar9088&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VinayShankar9088&theme=tokyonight&margin-w=10&margin-h=10"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=VinayShankar9088&theme=tokyonight)
 
----
+## 📈 Activity Graph
 
-## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=VinayShankar9088&theme=tokyo-night)
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayShankar9088&theme=tokyo-night"/>
-</p>
+## 🚀 Featured Projects
 
----
+- Amazon Store Data Analysis & Recommendation System
+- AI Powered Real-Time Object & Face Detection
+- Resume Builder Web Application
 
-## 💡 Tech Stack
+## 👀 Visitors
 
-```text
-💻 Python | Java | SQL | C/C++
-📊 Pandas | NumPy | Matplotlib
-🤖 OpenCV | AI | Machine Learning
-🌐 HTML | CSS | JavaScript | Flask
-🛠 Git | GitHub | VS Code | Jupyter Notebook
-```
+![](https://komarev.com/ghpvc/?username=VinayShankar9088&label=Profile%20Views)
 
 ---
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=VinayShankar9088&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! Have a great day! 🚀</h3>
+⭐ Thanks for visiting my profile!
