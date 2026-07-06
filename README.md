@@ -41,11 +41,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=VinayShankar9088&theme=tokyo-night)
 
-## 🚀 Featured Projects
-
-- Amazon Store Data Analysis & Recommendation System
-- AI Powered Real-Time Object & Face Detection
-- Resume Builder Web Application
 
 ## 👀 Visitors
 
